@@ -130,8 +130,30 @@ body{
     column-gap: 15px;
 }
 .instagram-section{
-    margin: 70px 0px;
+    margin: 80px 0px;
 }
 
 /* Latest Deals Section */
+.latest-deals-section{
+    background-image: url('/Flower Asset/Rectangle 9.png');
+    width: 975px;
+    height: 270px;
+    text-align: center;
+    margin: 20px auto;
+    background-size: cover;
+}
+.latest-tex{
+    padding-top: 60px;
+}
 
+.input-email{
+    width: 420px;
+    height: 42px;
+    background: #FFF; 
+    border: none;
+    padding: 0px 15px;
+    border-radius: 5px;
+    margin-right: 8px;
+}
+
+/* Extra meaning full section  */
