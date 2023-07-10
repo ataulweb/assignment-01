@@ -21,6 +21,7 @@
     font-weight: 400;
     line-height: 30px;
     margin-bottom: 25px; 
+    margin-top: 15px;
 }
 /* universal element */
 *{
@@ -109,4 +110,25 @@ body{
     align-items: center;
     justify-content: space-around;
     background: rgba(229, 84, 115, 0.05); 
+    padding: 70px 200px;
+    column-gap: 130px;
+}
+
+.deal-span{
+    color: #E55473;
+}
+.hot-deal-content, .deal-btn{
+    text-align: center;
+}
+
+/* Instagram Section */
+.instagram-img{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 0px 200px;
+    column-gap: 15px;
+}
+.instagram-section{
+    margin: 70px 0px;
 }
