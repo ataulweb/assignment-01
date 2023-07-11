@@ -157,3 +157,27 @@ body{
 }
 
 /* Extra meaning full section  */
+
+.workshop-section{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    border: 1px solid cadetblue;
+    height: 400px;
+    background-color: cornflowerblue;
+    column-gap: 15px;
+    margin-top: 20px;
+}
+.Extra-meaningful-section{
+    margin-top: 85px;
+}
+
+.workshop-img{
+    border-radius: 50%;
+    margin-right: 10px;
+}
+.workshop-content{
+    text-align: center;
+}
+
+/* Footer Section */
