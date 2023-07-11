@@ -181,3 +181,25 @@ body{
 }
 
 /* Footer Section */
+.footer-section{
+    height: 100px;
+    background-color: #111010;
+    padding: 100px 0;
+    
+}
+.footer-span{
+    color: #E55473; 
+}
+
+.footer-heading{
+    color: #FFFFFF;
+}
+.footer-paragraph{
+    color: rgba(255, 255, 255, 0.90); 
+}
+.footer-small-text{
+    display: block;
+    text-align: center;
+    color: rgba(255, 255, 255, 0.40);
+    font-weight: 400; 
+}
